@@ -508,8 +508,21 @@ img {
 .skills__firebase{
   width: 70%;
 }
-.skills__python{
+.skills__node{
   width: 55%;
+}
+
+.skills__python{
+  width: 90%; 
+}
+.skills__pandas{
+  width: 80%;
+}
+.skills__numpy{
+  width: 75%;
+}
+.skills__sklearn{
+  width: 60%;
 }
 
 .skills__close .skills__list{
